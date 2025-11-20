@@ -172,16 +172,6 @@ Use **Postman** or browser to:
 
 ---
 
-## 🚀 Deployment
-
-Recommended: [**Vercel**](https://vercel.com)
-
-Set environment variables in the Vercel dashboard.
-
-Live Demo:https://smartnotes-fbh9.vercel.app/
-
----
-
 ## ✅ Evaluation Checklist
 
 * [x] Clean, modular code
@@ -203,6 +193,6 @@ Live Demo:https://smartnotes-fbh9.vercel.app/
 
 ## 👨‍💻 Author
 
-**Himanshu**
+**Himanshu Yadav**
 
 ---
