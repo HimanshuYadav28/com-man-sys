@@ -203,6 +203,6 @@ Live Demo:https://smartnotes-fbh9.vercel.app/
 
 ## 👨‍💻 Author
 
-**Hrithik** — [LinkedIn](https://www.linkedin.com/in/hrithikgarg1/)
+**Himanshu**
 
 ---
