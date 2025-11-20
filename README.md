@@ -128,7 +128,7 @@ Go to: `http://localhost:3000`
 
 ---
 ## Screenshots
-<img width="1470" alt="Screenshot 2025-05-02 at 7 59 09 PM" src="https://github.com/user-attachments/assets/5d0e5508-7f1e-4f9a-b621-22d73c99bf73" />
+<!-- <img width="1470" alt="Screenshot 2025-05-02 at 7 59 09 PM" src="https://github.com/user-attachments/assets/5d0e5508-7f1e-4f9a-b621-22d73c99bf73" /> -->
 <img width="1470" alt="Screenshot 2025-05-02 at 7 58 50 PM" src="https://github.com/user-attachments/assets/617a75dd-1b01-4d54-b80e-53f8463f3772" />
 <img width="1470" alt="Screenshot 2025-05-02 at 7 57 33 PM" src="https://github.com/user-attachments/assets/aedf6153-05f5-4393-acab-72ea66e5e6c4" />
 <img width="1470" alt="Screenshot 2025-05-02 at 7 57 18 PM" src="https://github.com/user-attachments/assets/ca9caf74-cd5b-4eab-9308-0d79b27ecedb" />
